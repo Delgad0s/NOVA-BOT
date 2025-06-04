@@ -1,1 +1,1 @@
-worker: python nova_bot.py
+web: python nova_bot.py
