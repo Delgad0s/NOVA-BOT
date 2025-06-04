@@ -1,1 +1,1 @@
-worker: python3 main.py
+worker: python nova_bot.py
